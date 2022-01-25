@@ -1,6 +1,6 @@
-<p align="center">
   ### Hi there, I'm Onicarus 👋 
 
+<p align="center">
   <img width="760" height="400" src="https://cdn.dribbble.com/users/368620/screenshots/2317646/blog_info_material_design_gif.gif">
 </p>
 
