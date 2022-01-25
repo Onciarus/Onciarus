@@ -1,13 +1,18 @@
-  ### Hi there, I'm Onicarus 👋 
-
-<p align="center">
-  <img width="760" height="400" src="https://cdn.dribbble.com/users/368620/screenshots/2317646/blog_info_material_design_gif.gif">
-</p>
-
-## I'm a student!!
+  <h1 align="center">Hi there, I'm Onicarus 👋</h1>
+  
+<h6 align="center"> I'm a student!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: i love editing and design
+  </h1>
+<p align="center">
+  
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1751311020616283963/E680F0740F2D7A3766A792D5A2DA5671B174EE59/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1751311020616176346/15645BFCB6E075A2836C5F61F556CFCC0E9A32BF/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1751311020616283963/E680F0740F2D7A3766A792D5A2DA5671B174EE59/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+  
+</p>
+
 
 ### Languages and Tools:
 
